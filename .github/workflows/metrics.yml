@@ -5,6 +5,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@master
         with:
@@ -12,9 +14,15 @@ jobs:
           user: Ar2t1e
           template: classic
           base: header, activity, community, repositories
+          
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_ignored: github-project-manager, member, maintainer, collaborator
+
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_followup: yes
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+
+          config_timezone: Europe/Moscow
+          committer_message: "chore: update metrics"
