@@ -17,6 +17,11 @@
 
 ---
 
+<h2 align="center">📉 Статистика</h2>
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="50%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</p>
+
 ## 🚧 Проекты
 
 ### 🎨 Графика и Рендеринг
@@ -41,11 +46,6 @@
 * **🌿 YT-Tools** — Набор инструментов для упрощения создания контента на YouTube.
 
 ---
-
-## 📊 Статистика
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar2t1e&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3366ff,100:00ffcc&height=120&section=footer"/>
