@@ -1,62 +1,50 @@
 <h1 align="center">🎮 Ar2t1e — Minecraft Mod Developer</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3366ff&height=200&section=header&text=Дрбро%20Пожаловать%20В%20Ад!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3366ff&height=200&section=header&text=Добро%20Пожаловать%20В%20Ад!&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ar2t1e">
-    <img src="https://img.shields.io/badge/Minecraft%20Modder-%2300d26a.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/Role-Lead_Developer-green?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Graphics_Optimization-blue?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft-1.12.2-orange?style=flat-square&logo=minecraft&logoColor=white" />
 </p>
 
 ---
 
-## 👋 Привет!
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,gradle,idea,github,blender" />
+</p>
 
 ---
 
-## 🚧 Мои Моды + Приложения:
+## 🚧 Проекты
 
-### Flans-Model Convertor
-> Приложение для полной деобфускации моделей из мода Flans и преоброзования их в OBJ файлы для последующего использования.
-> Java 21+
+### 🎨 Графика и Рендеринг
+| Проект | Описание |
+| :--- | :--- |
+| **✨ AR-RenderEngine** | Экспериментальный мод для глубокой оптимизации рендеринга в Minecraft 1.12.2. |
+| **🎊 AR-Particles** | Система для эффективного рендеринга сотен тысяч частиц одновременно. |
+| **🏮 AR-Light** | Продвинутое освещение игрового уровня (аналог Unity/UE4/5) внутри Minecraft. |
+| **🔮 Ar-Deco** | Декоративные блоки с поддержкой рендеринга на основе GLTF моделей. |
 
-### ✨AR-RenderEngine
-> Експерементальный мод на целенный на оптимизацю рендеринга в minecarft 1.12.2
+### ⚙️ Механики и Системы
+| Проект | Описание |
+| :--- | :--- |
+| **🚗 Ar-Vehicle** | Комплексный мод на транспортные средства. |
+| **👾 Ar-Collision** | Реализация OBB (Oriented Bounding Box) системы коллизий. |
+| **🤺 ModelCitizens-Remake** | Современный ремейк мода на кукол/манекенов для версии 1.12.2. |
+| **⚔️ Modern Warfare Ultimate** | Улучшенный форк легендарного мода "Modern Warfare". |
+| **🛠️ AR-Libs** | Библиотека инструментов и вспомогательного кода для моих модов. |
 
-### 🎊AR-Particles
-> Експерементальный мод на целенный на рендер сотен тысяч партиклов в minecarft 1.12.2
-
-### 🏮AR-Light (Отвитвление AR-RenderEngine)
-> Мод добовляющий в игру освещение как в игровых движка уровня Unity и UE4/5 в Minecarft
-
-### 🛠️AR-Lips
-> Мод библеотека ни чего особого набор инструментов
-
-### 🚗 Ar-Vehicle
-> Мод На Транспортные Средства
-
-### 👾 Ar-Collision
-> Мод На OBB Систему Коллизий 
-
-### 🔮 Ar-Deco
-> Мод На декоротивные блоки, с рендером на основе GLTF моделей.
-
-### ⚔️ Modalr Warfare Ultimate
-> Форк мода "Modalr Warfare".
-
-### 🌿 YT-Tolls
-> Мод с набором инструментария для создания контетна на юутб.
-
-### 🤺 ModelCitizens-Remake
-> Мод на кукол как в моде - (ModelCitizens-1.7.10).
+### 🖥 Приложения и Инструментарий
+* **📂 Flans-Model Converter** — Деобфускатор моделей Flans и конвертер в OBJ формат. (Java 21+)
+* **🌿 YT-Tools** — Набор инструментов для упрощения создания контента на YouTube.
 
 ---
 
+## 📊 Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ar2t1e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar2t1e&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar2t1e&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
