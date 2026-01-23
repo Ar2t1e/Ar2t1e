@@ -16,7 +16,7 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Europe/Moscow
 
-          plugin_achievements: no 
+          plugin_achievements: no
           plugin_habits: no
 
           plugin_lines: yes
@@ -29,11 +29,9 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          
+
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-          
-          plugin_followup: yes
-          
-          committer_message: "chore: update metrics"
+
+          committer_message: "chore: cleanup and update metrics"
