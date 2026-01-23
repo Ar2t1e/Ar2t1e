@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Ar2t1e — Minecraft Mod Developer</h1>
+<h1 align="center">Minecraft Mod Developer</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3366ff&height=200&section=header&text=Добро%20Пожаловать%20В%20Ад!&fontSize=40&fontColor=ffffff" />
 </p>
@@ -27,23 +27,23 @@
 ### 🎨 Графика и Рендеринг
 | Проект | Описание |
 | :--- | :--- |
-| **✨ AR-RenderEngine** | Экспериментальный мод для глубокой оптимизации рендеринга в Minecraft 1.12.2. |
-| **🎊 AR-Particles** | Система для эффективного рендеринга сотен тысяч частиц одновременно. |
+| **✨ AR-RenderEngine** | Экспериментальный мод для оптимизации рендеринга в Minecraft 1.12.2. |
+| **🎊 AR-Particles** | Система для эффективного рендеринга сотен тысяч и миллиона частиц одновременно. |
 | **🏮 AR-Light** | Продвинутое освещение игрового уровня (аналог Unity/UE4/5) внутри Minecraft. |
 | **🔮 Ar-Deco** | Декоративные блоки с поддержкой рендеринга на основе GLTF моделей. |
 
 ### ⚙️ Механики и Системы
 | Проект | Описание |
 | :--- | :--- |
-| **🚗 Ar-Vehicle** | Комплексный мод на транспортные средства. |
+| **🚗 Ar-Vehicle** | Мод на транспортные средства. |
 | **👾 Ar-Collision** | Реализация OBB (Oriented Bounding Box) системы коллизий. |
-| **🤺 ModelCitizens-Remake** | Современный ремейк мода на кукол/манекенов для версии 1.12.2. |
-| **⚔️ Modern Warfare Ultimate** | Улучшенный форк легендарного мода "Modern Warfare". |
+| **🤺 ModelCitizens-Remake** | ремейк мода ModelCitizens для версии 1.12.2. |
+| **⚔️ Modular Warfare Ultimate** | Форк мода "Modular Warfare". |
 | **🛠️ AR-Libs** | Библиотека инструментов и вспомогательного кода для моих модов. |
 
 ### 🖥 Приложения и Инструментарий
 * **📂 Flans-Model Converter** — Деобфускатор моделей Flans и конвертер в OBJ формат. (Java 21+)
-* **🌿 YT-Tools** — Набор инструментов для упрощения создания контента на YouTube.
+* **🌿 YT-Tools** — Набор инструментов для упрощения создания контента на **YouTube**.
 
 ---
 
