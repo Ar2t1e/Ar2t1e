@@ -40,7 +40,7 @@
 | **Ar-Vehicle** | Мод на транспортные средства. |
 | **Ar-Collision** | Реализация **OBB** (Oriented Bounding Box) системы коллизий. |
 | **ModelCitizens-Remake** | ремейк мода ModelCitizens для версии 1.12.2. |
-| **MWF-Ultimate** | Форк мода "Modular Warfare". |
+| **MWF-Ultimate** | Не зависимый форк мода "Modular Warfare". |
 | **AR-Libs** | Библиотека инструментов и вспомогательного кода для моих модов. |
 | **KeyBind+** | Мод который Добовляет сохранение биндов клавишь даже если мод был удалён/изменён. |
 
