@@ -1,4 +1,4 @@
-<h1 align="center">Minecraft Mod Developer</h1>
+<h1 align="center">Minecraft Mod/Game Developer</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3366ff&height=200&section=header&text=Добро%20Пожаловать%20В%20Ад!&fontSize=40&fontColor=ffffff" />
 </p>
